@@ -1,0 +1,14 @@
+This is Google Clone Project for educational purpose using HTML,CSS and JS only.
+
+fontawesome was good.
+For no specific reason,it did't work on my machine.
+I decided to look for fontawesome alternatives.
+That's where I found Boxicons, much better counterpart of fontawesome.
+
+Boxicons Home Page
+
+https://boxicons.com/?query=+
+
+Boxicons Documentation
+
+https://boxicons.com/usage
